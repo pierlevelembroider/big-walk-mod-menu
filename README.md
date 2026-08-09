@@ -33,8 +33,7 @@ An open-source trainer (mod menu whatever) for the coop exploration game Big Wal
 ---
 
 ## Screenshots
-![Trainer Preview 1/2](https://github.com/pierlevelembroider/big-walk-trainer-mod/blob/main/assets/Builder/GUI/image.jpg)
-![Trainer Preview 2/2](https://github.com/pierlevelembroider/big-walk-trainer-mod/blob/main/assets/Builder/GUI/image.png)
+![Preview](https://github.com/pierlevelembroider/big-walk-trainer-mod/blob/main/assets/Builder/GUI/image.jpg)
 
 ---
 
