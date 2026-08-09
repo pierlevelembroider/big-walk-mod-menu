@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/pierlevelembroider/big-walk-trainer-mod?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-trainer-mod/stargazers)
 
-# Big Walk Trainer
 
 An open-source trainer (mod menu whatever) for the coop exploration game Big Walk. Contains features including speed control, ghost mode, and more.
 
