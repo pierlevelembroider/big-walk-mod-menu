@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/pierlevelembroider/big-walk-trainer-mod?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-trainer-mod/stargazers)
 
 
-An open-source trainer (mod menu whatever) for the coop exploration game Big Walk. Contains features including speed control, ghost mode, and more.
+An open-source trainer (mod menu whatever) for Big Walk. Includes features such as speed control, ghost mode (no clip), and more.
 
 ---
 
