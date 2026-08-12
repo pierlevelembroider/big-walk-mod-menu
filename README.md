@@ -15,16 +15,16 @@ An open-source trainer (mod menu whatever) for Big Walk. Includes features such 
 ---
 
 ## Features List
-- No Sleeping - Disable forced sleep mechanics
-- Game Speed - Control the overall game speed multiplier
-- Ghost Mode - Walk through walls and objects
-- Fly Speed - Set a multiplier for your flying speed
-- Walk Speed Multiplier - Adjust your walking speed
-- Sprint Speed Multiplier - Control your sprinting speed
-- Swim Speed Multiplier - Change your swimming speed
-- Jump Height Multiplier - Modify how high you can jump
-- Always Sprint - Keep sprinting without holding the key
-- No Falling Over - Prevent ragdoll falls
+- No Sleeping
+- Game Speed
+- Ghost Mode
+- Fly Speed
+- Walk Speed Multiplier
+- Sprint Speed Multiplier
+- Swim Speed Multiplier
+- Jump Height Multiplier
+- Always Sprint
+- No Fall
 
 ---
 
