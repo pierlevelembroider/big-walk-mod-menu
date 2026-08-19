@@ -1,16 +1,17 @@
-# Big Walk Mod Menu (Cheats & Hacks)
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/pierlevelembroider/big-walk-mod-menu/releases/download/v1.4.0/Big.Walk-Trainer-Mod-1.4.0.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.4.0-blue?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-mod-menu/releases/download/v1.4.0/Big.Walk-Trainer-Mod-1.4.0.zip)
+# Big Walk Cheats & Hacks menu
+
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/pierlevelembroider/big-walk-cheats/releases/download/v1.5.0/Big.Walk-Trainer-Mod-1.5.0.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.5.0-blue?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-cheats/releases/download/v1.5.0/Big.Walk-Trainer-Mod-1.5.0.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/pierlevelembroider/big-walk-mod-menu?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-mod-menu/stargazers)
+[![Stars](https://img.shields.io/github/stars/pierlevelembroider/big-walk-cheats?style=for-the-badge)](https://github.com/pierlevelembroider/big-walk-cheats/stargazers)
 
 
-An open-source trainer (mod menu whatever) for Big Walk. Includes features such as speed control, ghost mode (no clip), and more.
+_An open-source trainer (mod menu whatever) for Big Walk. Includes features such as speed control, ghost mode (no clip), and more._
 
 ---
 
 ## Screenshots
-![Preview](https://github.com/pierlevelembroider/big-walk-trainer-mod/blob/main/assets/Builder/GUI/image.png)
+![Preview](https://github.com/pierlevelembroider/big-walk-cheats/blob/main/assets/Builder/GUI/image.png)
 
 ---
 
@@ -29,10 +30,10 @@ An open-source trainer (mod menu whatever) for Big Walk. Includes features such 
 ---
 
 ## How to Install
-1.  Download the [latest ZIP archive from the Releases page](https://github.com/pierlevelembroider/big-walk-mod-menu/releases/download/v1.4.0/Big.Walk-Trainer-Mod-1.4.0.zip).
+1.  Download the [latest ZIP archive from the Releases page](https://github.com/pierlevelembroider/big-walk-cheats/releases/download/v1.5.0/Big.Walk-Trainer-Mod-1.5.0.zip).
 2.  Extract the contents to any folder (or desktop).
 3.  Launch the game.
-4.  Run `BW-trainer-github-v1.4.0.exe`.
+4.  Run `BW-trainer-github-v1.5.0.exe`.
 5.  Enjoy. Open your menu using `Insert` key.
 
 ---
@@ -47,6 +48,5 @@ No. Big Walk is primarily a singleplayer/coop game so using my software is safe.
 
 ---
 
-[Latest Release Version](https://github.com/pierlevelembroider/big-walk-mod-menu/releases/download/v1.4.0/Big.Walk-Trainer-Mod-1.4.0.zip)
 
 Built with C++
